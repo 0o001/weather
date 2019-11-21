@@ -1,0 +1,9 @@
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.Properties.Resources.resources
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\weather\weather\bin\Debug\weather.exe.config
+C:\Users\musta\source\repos\weather\weather\bin\Debug\weather.exe
+C:\Users\musta\source\repos\weather\weather\bin\Debug\weather.pdb
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.exe
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.pdb
+C:\Users\musta\source\repos\weather\weather\obj\Debug\weather.frm_weather.resources
