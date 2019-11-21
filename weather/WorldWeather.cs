@@ -22,7 +22,7 @@ namespace weather
 
     class WorldWeather
     {
-        private const string WORLDWEARTHER_PREMIUM_API_KEY = "c73a1333ee3d4443b69111920192011";
+        private const string WORLDWEARTHER_PREMIUM_API_KEY = "";
         public static List<WeatherItem> getWeather5Days(string city, string country)
         {
             string url = @"http://api.worldweatheronline.com/premium/v1/weather.ashx?q=" + city + "," + country + "&format=xml&num_of_days=5&key=" + WORLDWEARTHER_PREMIUM_API_KEY;

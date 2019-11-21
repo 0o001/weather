@@ -9,7 +9,7 @@ namespace weather
 {
     class IPStack
     {
-        private const string IPSTACK_API_KEY = "0e84379b98346b4c777f28221a568b22";
+        private const string IPSTACK_API_KEY = "";
         private static string getIP()
         {
             return new WebClient().DownloadString("http://icanhazip.com");
